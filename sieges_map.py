@@ -20,7 +20,7 @@ import pandas as pd
 # In[9]:
 
 
-sieges_df = pd.read_csv('sieges.csv', index_col=0, encoding='cp1252')
+sieges_df = pd.read_csv('data/sieges.csv', index_col=0, encoding='cp1252')
 
 
 # In[10]:
