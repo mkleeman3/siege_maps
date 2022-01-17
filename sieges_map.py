@@ -150,6 +150,8 @@ color_bar = ColorBar(color_mapper=color_mapper['transform'],
 
 p.add_layout(color_bar, 'right')
 
+curdoc().add_root(column(p))
+
 
 # In[48]:
 
