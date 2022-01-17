@@ -86,7 +86,7 @@ chosentile = get_provider(Vendors.STAMEN_TONER)
 
 # Choose palette
 
-palette = PRGn[11]
+palette = RdYlGn[11]
 
 
 # In[26]:
