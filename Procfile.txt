@@ -1,0 +1,1 @@
+web: bokeh serve --port=$PORT --address=0.0.0.0 --allow-websocket-origin=sieges-map.herokuapp.com --use-xheaders sieges_map_v2.py
